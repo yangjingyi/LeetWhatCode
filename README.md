@@ -1,0 +1,2 @@
+# LeetWhatCode
+leetcode 101
