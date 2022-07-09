@@ -1,7 +1,6 @@
 from typing import List
 import typing
 
-
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
